@@ -1,0 +1,15 @@
+/home/arif/Desktop/Esma C# ConsoleMenu/bin/Debug/net6.0/Esma C# ConsoleMenu
+/home/arif/Desktop/Esma C# ConsoleMenu/bin/Debug/net6.0/Esma C# ConsoleMenu.deps.json
+/home/arif/Desktop/Esma C# ConsoleMenu/bin/Debug/net6.0/Esma C# ConsoleMenu.runtimeconfig.json
+/home/arif/Desktop/Esma C# ConsoleMenu/bin/Debug/net6.0/Esma C# ConsoleMenu.dll
+/home/arif/Desktop/Esma C# ConsoleMenu/bin/Debug/net6.0/ref/Esma C# ConsoleMenu.dll
+/home/arif/Desktop/Esma C# ConsoleMenu/bin/Debug/net6.0/Esma C# ConsoleMenu.pdb
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.csproj.AssemblyReference.cache
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.AssemblyInfoInputs.cache
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.AssemblyInfo.cs
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.csproj.CoreCompileInputs.cache
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.dll
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/ref/Esma C# ConsoleMenu.dll
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.pdb
+/home/arif/Desktop/Esma C# ConsoleMenu/obj/Debug/net6.0/Esma C# ConsoleMenu.genruntimeconfig.cache
